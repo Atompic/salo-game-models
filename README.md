@@ -1,5 +1,6 @@
 # salo-game-models
 my en salo se game models
 me and my frieds game textures and posibly 3D modeles
-
-![ha ha funny](https://github.com/Atompic/salo-game-models/salo-game-models/main/cloud.png?raw=true
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
